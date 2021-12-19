@@ -8,6 +8,8 @@
   },
   "author": "\"shamim\"",
   "license": "ISC",
+  "type": "module",
+  "module": "esnext",
   "dependencies": {
     "bootstrap": "^5.1.3",
     "date-format": "^3.0.0"
